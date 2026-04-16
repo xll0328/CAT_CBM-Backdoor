@@ -8,7 +8,7 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-111827?style=for-the-badge)](https://xll0328.github.io/cat/)
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-b31b1b?style=for-the-badge)](https://openreview.net/forum?id=bntZBG9fBY)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](#environment)
-[![License](https://img.shields.io/badge/Status-Research%20Code-0f766e?style=for-the-badge)](#notes)
+[![Status](https://img.shields.io/badge/Status-Public%20Release-0f766e?style=for-the-badge)](#notes)
 
 </div>
 
@@ -48,6 +48,14 @@ The released code supports the two key stages used in the paper:
 - **Optimized trigger-concept association**: CAT+ further improves attack strength through iterative optimization.
 - **Strong attack / clean-performance trade-off**: high attack success rates while maintaining competitive clean accuracy.
 - **End-to-end relevance**: the project connects concept-space manipulation with practical image-space feasibility discussed in the paper.
+
+---
+
+## Resources
+
+- **Project page**: https://xll0328.github.io/cat/
+- **Paper**: https://openreview.net/forum?id=bntZBG9fBY
+- **Code**: https://github.com/xll0328/CAT_CBM-Backdoor
 
 ---
 
