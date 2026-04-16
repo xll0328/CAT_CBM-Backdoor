@@ -1,0 +1,6 @@
+cub:
+  processed_dir: /path/to/processed_data/cub_processed_data
+  source_dir: /path/to/source_data/CUB_200_2011
+awa:
+  processed_dir: /path/to/processed_data/awa_processed_data
+  source_dir: /path/to/source_data/Animals_with_Attributes2
